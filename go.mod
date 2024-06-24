@@ -1,4 +1,4 @@
-module github.com/openimsdk/localcache
+module github.com/azyben/openim-localcache
 
 go 1.19
 
